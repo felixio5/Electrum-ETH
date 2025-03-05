@@ -123,16 +123,6 @@ python electrum_eth.py
 
 ---
 
-## 💬 Get Involved and Join the Community
-
-This project is nothing without the community. If you have suggestions, features you want to see, or want to improve the wallet, get involved!
-
-- **Contribute**: Fork the repo and submit your pull request. We welcome all contributions.
-- **Discuss**: Join our community discussions on [Telegram](https://t.me/your-telegram-link), [Discord](https://discord.com/your-discord-link), and [Reddit](https://reddit.com/your-reddit-link).
-- **Report Bugs**: Found a bug? Report it on our [GitHub Issues page](https://github.com/felixio5/Electrum-ETH/issues).
-
----
-
 ## 🙏 Thank You!
 
 Your support drives this wallet forward. **Electrum ETH Wallet** is built with the Ethereum community in mind. We can't wait to continue this journey and bring you more updates and features. Stay tuned—big things are coming!
